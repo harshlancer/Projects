@@ -11,10 +11,9 @@ function Navbar() {
         </Link>
       </div>
       <div className="search">
-        <input type="text" placeholder="Search ">
-        </input>
-        
-        <button type="submit"  > search</button>
+        <input type="text" placeholder="Search "></input>
+
+        <button type="submit"> search</button>
       </div>
 
       <div className="links">
